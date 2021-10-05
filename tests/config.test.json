@@ -1,0 +1,13 @@
+{
+    "app": {
+      "url": "127.0.0.1",
+      "port": 8008
+    },
+    "conn":
+    {
+      "user": "dev_guy",
+      "password": "xxxxxxxxxxxx",
+      "address": "localhost",
+      "dbname": "user_man"
+    }
+}
