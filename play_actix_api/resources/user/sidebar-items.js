@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["init",""]],"struct":[["delete_user",""],["get_user",""],["patch_user",""],["post_user",""]]});

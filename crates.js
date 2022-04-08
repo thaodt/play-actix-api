@@ -1,0 +1,1 @@
+window.ALL_CRATES = ["play_actix_api"];

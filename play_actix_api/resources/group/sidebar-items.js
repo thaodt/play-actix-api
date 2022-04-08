@@ -1,0 +1,1 @@
+initSidebarItems({"fn":[["init",""]],"struct":[["GroupUpdate",""],["delete_group_by_name",""],["get_group_by_id",""],["patch_group_by_name",""],["post_group",""]]});

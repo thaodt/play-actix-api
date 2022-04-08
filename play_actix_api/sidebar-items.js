@@ -1,0 +1,1 @@
+initSidebarItems({"mod":[["config",""],["models",""],["repositories",""],["resources",""]],"struct":[["AppState",""]]});
